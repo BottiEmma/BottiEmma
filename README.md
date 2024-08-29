@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BottiEmma
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning how to use Sprint Boot and Spring Security
+- 🌱 I’m currently learning how to use Spring Boot and Spring Security
 
 <!---
 BottiEmma/BottiEmma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
